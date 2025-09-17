@@ -1,2 +1,2 @@
-# MLOps-Practices-2
- more Practical works to learn and apply MLOps basics using Python (week 2)
+# MLOps-Practices 1
+ Practical work on MLOps focusing on reproducibility and model deployment.
